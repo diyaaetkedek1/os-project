@@ -1,0 +1,9 @@
+at time 0:
+	Process 1 is Ready
+	Process 2 is Ready
+	Process 3 is Ready
+when the simulation is done:
+	Process 1 is Finished
+	Process 2 is Finished
+	Process 3 is Finished
+	
